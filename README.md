@@ -1,1 +1,5 @@
-# projeto-tradutor
+##projeto-tradutor
+
+Equipe: Ana Leme
+
+Professor: Ana Leme
